@@ -1,0 +1,4 @@
+git+https://github.com/openai/swarm.git
+httpx
+python-dotenv
+openai
